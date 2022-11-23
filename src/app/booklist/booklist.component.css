@@ -1,0 +1,11 @@
+.tooSmall {
+  color: red;
+}
+
+.ratherBig {
+  color: green;
+}
+
+.odd {
+  background-color: lightgray;
+}
